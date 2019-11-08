@@ -6,7 +6,7 @@ CSS imageverkefni
 2.1 Setjið upp title og tengingu við CSS skjalið
 2.2 Setjið upp div tagg með id wrapper
 2.2.1 Búið til div með id header
-2.2.1.1 Búið til image tag sem vísar í myndina title, er með alternitive "Galerie Botanique", width 456 og height 122
+2.2.1.1 Búið til image tag sem vísar í myndina title, er með alternitive "Rousseau", width 456 og height 122
 2.2.1.2 Setjið upp p tagg með textanum "Here is a selection of antique botanical prints held in our collection."
 
 2.2.2 Búið til div tagg með class entry
